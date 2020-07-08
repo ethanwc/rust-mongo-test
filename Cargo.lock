@@ -822,6 +822,7 @@ dependencies = [
 name = "mongodb-rust"
 version = "0.1.0"
 dependencies = [
+ "futures",
  "mongodb",
 ]
 
